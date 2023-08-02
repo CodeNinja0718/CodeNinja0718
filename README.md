@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Senior%20Full-Stack%20DeveloperBlockchain%20and%20Mobile%20Expert;8%2B%20years%20of%20rich%20experience;&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Web%20and%20Mobile%20Expert;Blockchain%20developer;7%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
