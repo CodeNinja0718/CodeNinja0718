@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Senior%20Full-Stack%20DeveloperBlockchain%20and%20Mobile%20Expert;8%2B%20years%20of%20rich%20experience;&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
@@ -12,23 +12,15 @@
 
 ## Hi 👋,AI Expert, Senior Web & Mobile Developer!
 
-AI expert with 2+years of experience building ChatBot and API integration.<br/>
-Senior full-stack developer with 5+ years of experience building high-performance presentations, layers, reusable components, and performance optimizations.
-Developed Front-End using React.js, Redux,Vue.js, NextJs- JavaScript, HTML, CSS. 
-Developed Back-End using PHP/Laravel, Python/Django, and Node/ExpressJS.
-Specialized in developing 20+ useful and well-organized websites and applications using React.js and Node.js. You should have sufficient experience with blockchain technologies such as DeFi, DAOs, cryptocurrencies, Ethereum, Avalanche, Solidity, Solana, Web3.js, smart contracts (NFTs/ERC20/ERC721), ICOs/IEOs, exchange platforms, and NFT marketplaces. Experience with SQL programming languages in MySQL, OraclePL/SQL and other database environments (e.g. MongoDB, PostgreSQL). Ability to effectively self-manage independent projects and lead and collaborate with team members on challenging web and blockchain projects that are often time-sensitive, use different time zones (Pacific, Eastern), and require strong creative and technical skills.
-
 Main Skills:
-- ChatBot, ChatGPT, ManyChat, Api Integration
-- Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
-- React, React Hooks, React Context, 
-- Tailwind CSS, Material-UI, Bootstrap
-- React Native, Flutter
-- GraphQL, Apollo
-- Node.js, Express.js, Hapi.js
-- PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
-- MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
-- AWS, DigitalOcean, Heroku 
+- AI Bot, Open AI, Machine Learning, Embedding and Finetuning
+- ReactJS, Svelte, Angular, VueJS, NextJS, NuxtJS
+- NodeJS( Express/NestJS ), PHP, Django, Ruby on Rails, ASP.NET
+- MySǪL, MongoDB, DynamoDB. PostgreSǪL
+- Flutter, React Native, Swift, Kubernetes, C++, Java, IOS, Android, Object -C
+- Matrial UI, Metronic, MDB React, Bootstrap, AntD
+- Tailwind CSS, Vuetify, SCSS
+- Stripe, AWS, Rest API, Microsoft Azure, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
 I'm full time developer. Please contact me at james950716@gmail.com
 
