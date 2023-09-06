@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Expert!;Web%20and%20Mobile%20Expert;7%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer!;Web%20and%20Mobile%20Expert;7%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
@@ -14,13 +14,13 @@
 
 Main Skills:
 - AI Bot, Open AI, Machine Learning, Embedding and Finetuning
-- ReactJS, Svelte, Angular, VueJS, NextJS, NuxtJS
-- NodeJS( Express/NestJS ), PHP, Django, Ruby on Rails, ASP.NET
+- React/NextJS, VueJS/NuxtJS, Svelte, Angular
+- NodeJS, NestJS, PHP, Django, Ruby on Rails, ASP.NET
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
-- Flutter, React Native, Swift, Kubernetes, C++, Java, IOS, Android, Object -C
+- Flutter, React Native, Swift, Java
 - Matrial UI, Metronic, MDB React, Bootstrap, AntD
 - Tailwind CSS, Vuetify, SCSS
-- Stripe, AWS, Rest API, Microsoft Azure, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
+- Stripe, AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
 I'm full time developer. Please contact me at panda95718@gmail.com
 
