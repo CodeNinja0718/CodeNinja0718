@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/magichand-star"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer!;Web%20and%20Mobile%20Expert;7%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/codeninja0718"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Engineer!;Web%20Developer;7%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
@@ -10,19 +10,18 @@
  Let's go beyond our limits<br>
 </p>
 
-## Hi 👋,AI Expert, Senior Web & Mobile Developer!
+## Hi 👋,Full Stack, Blockchain Developer!
 
 Main Skills:
-- AI Bot, Open AI, Machine Learning, Embedding and Finetuning
-- React/NextJS, VueJS/NuxtJS, Svelte, Angular
-- NodeJS, NestJS, PHP, Django, Ruby on Rails, ASP.NET
+- React/Next.js, Vue/Nuxt.js, Svelte, Angular
+- Node/Nest JS, Django, Ruby on Rails, Goland
+- Web3JS, Solidity, Rust, Truffle, Hardhat, Anchor, Coswasm, Openzeppelin, IPFS
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
-- Flutter, React Native, Swift, Java
 - Matrial UI, Metronic, MDB React, Bootstrap, AntD
 - Tailwind CSS, Vuetify, SCSS
-- Stripe, AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
+- AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Jira, Vercel
 
-I'm full time developer. Please contact me at panda95718@gmail.com
+I'm full time developer. Please contact me at coredev0325@gmail.com
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
